@@ -1,0 +1,8 @@
+//name|radius|hexColor|bindingPartner;bindingDistance
+Sumo_1|14.2|#6699FF|Sumo_1;14.2|Sumo_2;14.2|Sumo_3;14.2|PMLbody;14.2
+Sumo_2|14.2|#9966FF|Sumo_1;14.2|Sumo_2;14.2|PMLbody;14.2
+Sumo_3|14.2|#FF0000|Sumo_1;14.2|Sumo_2;14.2|PMLbody;14.2
+PMLbody|30|#AAAAAA|Sumo_1;30.0|Sumo_2;30.0|Sumo_3;30.0
+Sp100|25.8|#00FF00|Sumo_1;25.8|Sumo_2;25.8|Sumo_3;25.8
+Daxx|28.8|#0000FF|Sumo_1;28.8|Sumo_2;28.8|Sumo_3;28.8
+Repulsor|200.0|#666666
