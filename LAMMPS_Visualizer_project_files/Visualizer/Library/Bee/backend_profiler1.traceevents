@@ -1,0 +1,471 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1734027948773426, "dur":1162, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027948774591, "dur":53, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1734027948774652, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1734027948774668, "dur":255, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1734027948774944, "dur":402, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027948775346, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022451, "dur":152, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022603, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022626, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022629, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022636, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022637, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022641, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022642, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022645, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022646, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022650, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022651, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022654, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022655, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022659, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022660, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022664, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022665, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022668, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022669, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022672, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022673, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022676, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022678, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022681, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022687, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949022704, "dur":1645, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1734027948775061, "dur":291, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948775354, "dur":3557, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948778916, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1734027948778918, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948779084, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1734027948779089, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948785977, "dur":1012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1734027948786990, "dur":35926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer.exe" }}
+,{ "pid":12345, "tid":1, "ts":1734027948822919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948822923, "dur":1049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer.exe" }}
+,{ "pid":12345, "tid":1, "ts":1734027948824007, "dur":1777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948825787, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948825793, "dur":2144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948827982, "dur":1915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948829900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948829905, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948832178, "dur":1485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948833667, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948833672, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948836297, "dur":1604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948837904, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948837916, "dur":3998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948841953, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948841999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948842004, "dur":1464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948843528, "dur":4336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948847867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948847873, "dur":3362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948851272, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948851315, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948851372, "dur":3999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948855414, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948855453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948855458, "dur":2965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948858464, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948859640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948859645, "dur":8117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734027948867804, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1734027948867910, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734027948867914, "dur":4328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1734027948872274, "dur":150179, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948775104, "dur":263, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948775367, "dur":3549, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948778917, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1734027948779062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948784496, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1734027948786583, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948786686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948786691, "dur":29740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948816474, "dur":4137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948820614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948820619, "dur":4908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948825564, "dur":2280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948827848, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948827853, "dur":2297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948830188, "dur":1587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948831778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948831784, "dur":8834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948840672, "dur":1925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948842600, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948842605, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948844798, "dur":1744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948846591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948846597, "dur":3314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948849962, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948850020, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948850026, "dur":3493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948853561, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948853606, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948853611, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948857189, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948857281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948857286, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948860266, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948860328, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734027948860333, "dur":13990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734027948874364, "dur":148107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948775078, "dur":278, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948775356, "dur":3559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948778918, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1734027948779059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948780097, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1734027948782010, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1734027948782085, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948782287, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1734027948783341, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1734027948783422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948783482, "dur":849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1734027948784362, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1734027948784466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948784472, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1734027948786367, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948786483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948786532, "dur":20560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948807123, "dur":1246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948808371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948808376, "dur":7704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948816132, "dur":13494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948829630, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948829636, "dur":17929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948847605, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948847653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948847658, "dur":4925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948852701, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948852753, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948852758, "dur":4115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948856981, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948857030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948857036, "dur":5035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734027948862109, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1734027948862155, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948862159, "dur":5254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1734027948867457, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1734027948867503, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734027948867509, "dur":4565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1734027948872114, "dur":150337, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948775097, "dur":264, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948775361, "dur":3554, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948778917, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734027948779092, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948786203, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734027948787481, "dur":1681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948789166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948789337, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948790314, "dur":1580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948791898, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948791958, "dur":22870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948814871, "dur":2009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948816884, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948816889, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948818515, "dur":7554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948826111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948826117, "dur":3179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948829335, "dur":1788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948831187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948831193, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948833273, "dur":1885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948835162, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948835167, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948836542, "dur":1924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948838470, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948838476, "dur":3462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948841978, "dur":1621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948843624, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948843629, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948845568, "dur":85182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948930755, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734027948930764, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734027948932053, "dur":90400, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948775123, "dur":248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948775371, "dur":3541, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948778916, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1734027948779093, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948788123, "dur":3763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1734027948791928, "dur":1394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948793325, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948793329, "dur":23799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948817175, "dur":1543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948818721, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948818726, "dur":1085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948819846, "dur":1707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948821556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948821563, "dur":1132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948822732, "dur":1559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948824294, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948824301, "dur":1559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948825896, "dur":1495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948827395, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948827400, "dur":3237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948830678, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948830723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948830728, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948832610, "dur":5172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948837785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948837791, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948841104, "dur":2429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948843536, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948843641, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948846790, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948846833, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948846838, "dur":4420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948851300, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948851374, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948851379, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948853531, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948853570, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948853574, "dur":3379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948856998, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948857041, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948857047, "dur":2645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948860324, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948860381, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948860400, "dur":3116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734027948863552, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1734027948863662, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948863666, "dur":1494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1734027948865200, "dur":701, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1734027948865904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948865909, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1734027948867533, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1734027948867571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734027948867576, "dur":4479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1734027948872093, "dur":150356, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948775139, "dur":236, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948775375, "dur":3548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948778923, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1734027948779100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948788084, "dur":26314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1734027948814442, "dur":2054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948816499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948816507, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948817467, "dur":1569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948819039, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948819043, "dur":5404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948824487, "dur":1996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948826486, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948826492, "dur":2523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948829052, "dur":1768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948830824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948830830, "dur":1896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948832768, "dur":1616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948834387, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948834393, "dur":2100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948836539, "dur":1890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948838432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948838437, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948841453, "dur":1626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948843082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948843087, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948845398, "dur":99550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948944953, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734027948944961, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734027948946050, "dur":76416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948775155, "dur":222, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948775377, "dur":3537, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948778917, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1734027948779058, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948784177, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1734027948785584, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1734027948785677, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948785682, "dur":1436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1734027948787163, "dur":2076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948789242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948789389, "dur":1018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948790449, "dur":1420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948791872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948791941, "dur":22876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948814863, "dur":2103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948816970, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948816975, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948818746, "dur":145466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948964219, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734027948964231, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734027948965170, "dur":57287, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948775173, "dur":208, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948775382, "dur":3530, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948778916, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1734027948779058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948780079, "dur":1885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1734027948781993, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1734027948782064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948782434, "dur":989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1734027948783469, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1734027948783550, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948783554, "dur":1103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1734027948784701, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1734027948784797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948784802, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1734027948786147, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948786248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948786459, "dur":4473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948790973, "dur":1477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948792453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948792459, "dur":23780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948816281, "dur":3709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948819994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948820000, "dur":4563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948824608, "dur":1710, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948826321, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948826327, "dur":3171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948829544, "dur":1853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948831401, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948831406, "dur":2760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948834206, "dur":1780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948835990, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948835995, "dur":2008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948838046, "dur":1495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948839544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948839550, "dur":12683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948852269, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948852320, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948852325, "dur":5784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948858155, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948858210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948858216, "dur":2608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948860866, "dur":119989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948980859, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734027948980866, "dur":844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734027948981743, "dur":40723, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948775195, "dur":191, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948775386, "dur":3533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948778921, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1734027948779074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948785078, "dur":1785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1734027948786906, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1734027948786996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948787000, "dur":9579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1734027948796610, "dur":1105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948797717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948797722, "dur":31235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948828998, "dur":2101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948831102, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948831107, "dur":3160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948834326, "dur":1850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948836180, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948836185, "dur":3969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948840196, "dur":2142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948842342, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948842347, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948845169, "dur":71988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948917164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734027948917174, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734027948918532, "dur":103920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948775212, "dur":177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948775389, "dur":3533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948778922, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1734027948779120, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948789129, "dur":27874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1734027948817048, "dur":1753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948818804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948818809, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948820348, "dur":2066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948822417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948822441, "dur":4397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948826870, "dur":1514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948828387, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948828393, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948830866, "dur":1481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948832350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948832355, "dur":3772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948836170, "dur":7805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948843979, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948843984, "dur":2017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948846038, "dur":85175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948931217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734027948931224, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734027948932342, "dur":90112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948775233, "dur":160, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948775393, "dur":3525, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948778921, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1734027948779078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948785366, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1734027948787041, "dur":861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1734027948787910, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948788520, "dur":17518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1734027948806081, "dur":1782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948807866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948807872, "dur":10535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948818453, "dur":1491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948819947, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948819952, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948822148, "dur":1630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948823781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948823787, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948825583, "dur":1431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948827017, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948827022, "dur":2048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948829326, "dur":3342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948832672, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948832714, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948834816, "dur":1592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948836411, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948836417, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948838590, "dur":4450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948843043, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948843048, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948845952, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948845994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948846000, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948846992, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948847032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948847037, "dur":4994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948852078, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948852127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948852132, "dur":3452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948855620, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948855658, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948855662, "dur":3849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948859565, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948859613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948859618, "dur":2160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734027948861815, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1734027948861853, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948861907, "dur":822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1734027948862763, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1734027948862841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948862846, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1734027948865304, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1734027948865347, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948865351, "dur":826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1734027948866218, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1734027948866257, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734027948866261, "dur":7133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1734027948873435, "dur":149015, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948775247, "dur":149, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948775396, "dur":3521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948778918, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1734027948779111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948788779, "dur":4048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1734027948792875, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948793967, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948793983, "dur":22055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948816077, "dur":1840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948817920, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948817938, "dur":4290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948822268, "dur":3645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948825916, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948826111, "dur":4173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948830320, "dur":1832, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948832156, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948832161, "dur":2325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948834529, "dur":1733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948836264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948836270, "dur":2369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948838682, "dur":1471, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948840157, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948840162, "dur":2807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948843113, "dur":1979, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948845095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027948845100, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027948846528, "dur":174869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027949021402, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734027949021411, "dur":989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LasseSteinhoff/Desktop/LAMMPS_Visualizer/Visualizer_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734027949022428, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":12, "ts":1734027949022429, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734027949025398, "dur":1169, "ph":"X", "name": "ProfilerWriteOutput" }
+,
