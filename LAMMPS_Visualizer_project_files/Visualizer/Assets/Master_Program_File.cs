@@ -625,7 +625,7 @@ public class Master_Program_File : MonoBehaviour
                             Bond bond = new Bond(gameObject, partner);
                             if (protein.bindingdistance.TryGetValue(partner.name, out float bindingdistance)) // valid partner 
                             {
-                                if (bond.length <= bindingdistance && bond.length <= 0) // valid length
+                                if (bond.length > bindingdistance && bond.length <= 0) // valid length
                                     continue;
                                 bonds.Add(bond);
                             }
