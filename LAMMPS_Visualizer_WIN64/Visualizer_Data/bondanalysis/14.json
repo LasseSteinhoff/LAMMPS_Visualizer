@@ -1,0 +1,718 @@
+{
+    "results": [
+        {
+            "timestep": 1,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 20,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 23,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 21,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 27,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 2,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 17,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 19,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 26,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 12,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 3,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 36,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 24,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 27,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 21,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 4,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 35,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 30,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 27,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 32,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 5,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 36,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 34,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 31,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 30,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 6,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 28,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 21,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 28,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 28,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 7,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 31,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 22,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 36,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 29,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 8,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 29,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 26,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 27,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 32,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 9,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 20,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 28,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 29,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 29,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 10,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 28,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 27,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 32,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 19,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 11,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 10,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 1,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 3,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 2,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 12,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 26,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 34,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 27,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 26,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 13,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 43,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 40,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 31,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 36,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        },
+        {
+            "timestep": 14,
+            "first": 2,
+            "second": 0,
+            "third": 0,
+            "fourth": 0,
+            "fifth": 0,
+            "sixth": 0,
+            "seventh": 0,
+            "eighth": 0,
+            "nineth": 0,
+            "tenth": 0,
+            "proteinCombination": [
+                {
+                    "occurrence": 19,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": true,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 25,
+                    "SUMO1": true,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 33,
+                    "SUMO1": false,
+                    "SUMO2": true,
+                    "SUMO3": false,
+                    "PML": false,
+                    "DAXX": true,
+                    "SP100": false
+                },
+                {
+                    "occurrence": 23,
+                    "SUMO1": false,
+                    "SUMO2": false,
+                    "SUMO3": false,
+                    "PML": true,
+                    "DAXX": false,
+                    "SP100": false
+                }
+            ]
+        }
+    ]
+}
