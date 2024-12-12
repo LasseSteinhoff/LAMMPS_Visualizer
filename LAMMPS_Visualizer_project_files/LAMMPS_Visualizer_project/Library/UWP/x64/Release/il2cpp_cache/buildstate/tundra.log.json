@@ -1,3 +1,0 @@
-{"msg":"init","dagFile":"C:/Users/LasseSteinhoff/PML_Body/Library/UWP/x64/Release/il2cpp_cache/buildstate/bee.dag","targets":["FinalProgram"]}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"FinalProgram","enqueuedNodeIndex":2}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"IL2CPP_CodeGenAndCompile C:/Users/LasseSteinhoff/PML_Body/Library/UWP/x64/Release/il2cpp_cache/buildstate/artifacts/il2cpp_conv_9hoz.traceevents","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"FinalProgram","enqueueingNodeIndex":2}
